@@ -3,7 +3,7 @@
 
 ## Presentation file
 
-- **PPT:** `[Open Final Presentation](./matriX_SIH2026_Presentation.pptx)`
+- **PPT:** `https://1drv.ms/p/c/b350c96dac559079/IQACETvekXvSTIM1PPtkuGBRAYzsnEoGEOWREGbVnXnhH7A?e=JDPyx3`
 
 ## External presentation link (only if needed)
 
