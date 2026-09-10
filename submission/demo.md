@@ -1,3 +1,3 @@
 ## Demo video link
 
-`<PASTE_YOUTUBE_OR_GOOGLE_DRIVE_VIDEO_LINK_HERE>`
+`https://drive.google.com/drive/folders/1IN9bxD4aOFNCKvg2rsmgdX31K_iUBq9F?usp=sharing`
