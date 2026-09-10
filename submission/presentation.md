@@ -3,8 +3,8 @@
 
 ## Presentation file
 
-- **PPT:** `[Open Final Presentation](./YOUR_FINAL_PRESENTATION.pptx)`
+- **PPT:** `[Open Final Presentation](./matriX_SIH2026_Presentation.pptx)`
 
 ## External presentation link (only if needed)
 
-`<PASTE_GOOGLE_DRIVE_OR_ONEDRIVE_VIEW_LINK_HERE>`
+`https://drive.google.com/drive/folders/1og0LR4_P8oEevCqNSeft2LtKJ7qRsTFg?usp=sharing`
